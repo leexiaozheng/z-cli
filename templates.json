@@ -1,0 +1,6 @@
+{
+    "init": {
+        "name": "init",
+        "path": "direct:https://github.com/leexiaozheng/z-template.git#master"
+    }
+}

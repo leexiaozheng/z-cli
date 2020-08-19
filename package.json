@@ -1,0 +1,21 @@
+{
+    "name": "z-cli",
+    "version": "1.0.0",
+    "description": "z-cli",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "z-cli": "bin/z-cli"
+    },
+    "author": "leexiaozheng@yeah.net",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "commander": "^6.0.0",
+        "download-git-repo": "^3.0.2",
+        "inquirer": "^7.3.3",
+        "ora": "^4.0.5"
+    }
+}
